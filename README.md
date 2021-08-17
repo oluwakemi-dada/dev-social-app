@@ -3,7 +3,7 @@
 This is a social app for developers. It allows devlopers create a profile and connect with other developers.\
 From Brad's course.
 
-Preview App - <a href="https://dev-connect-mern123.herokuapp.com">Devconnector</a>
+Preview App - <a href="https://dev-connect-mern123.herokuapp.com" target="_blank">Devconnector</a>
 
 ## Built With
 
