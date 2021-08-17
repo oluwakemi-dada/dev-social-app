@@ -48,6 +48,8 @@ const EditProfile = ({
       instagram:
         loading || !profile.social.instagram ? '' : profile.social.instagram,
     });
+
+    // eslint-disable-next-line
   }, [loading, getCurrentProfile]);
 
   const {
