@@ -24,8 +24,7 @@ In the project directory, run:
 
 ### `npm run dev`
 
-This runs both the frontend and the backend concurrently
-Runs the app in the development mode.\
+This runs both the frontend and the backend concurrently in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
